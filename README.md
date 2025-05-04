@@ -19,6 +19,10 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 - `python-learning-journey`: My weekly progress as a Python beginner
 - `todo-cli`: A simple to-do app in the terminal
 - `paiza-stats-visualizer`: A fun app to track Paiza learning progress (idea stage)
+### 🏅 Paiza Python Certificate  
+Completed "Python体験編1" on May 4, 2025  
+![Certificate](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/yourimage.png?raw=true)
+
 
 ## 🌱 2025 Goals
 - Build at least **5 real projects** and publish them here
@@ -41,7 +45,7 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 - Currently studying **software programming** and **Japanese** to enter a top university in Japan
 - Learning **Python** — my first language — step by step with real projects
 - Interested in **AI, robotics, automation, and smart tools**
-- Documenting everything I learn in my [Python Learning Journey Repo](https://github.com/your_username/python-learning-journey)
+- Documenting everything I learn in my [Python Learning Journey Repo](https://github.com/MinHtutKhaung29/python-learning-journey)
 
 ## 🛠️ Tech I’m Learning
 - Python (Core, OOP, Projects)
