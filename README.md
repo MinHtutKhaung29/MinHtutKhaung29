@@ -1,4 +1,3 @@
-
 # Hi, I’m Min Htut Khaung — Future Software Engineer & AI Builder
 
 I’m a passionate programmer in Tokyo, Japan, learning Python and software development with big dreams:  
@@ -66,9 +65,8 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 > “Success is not magic — it’s built daily with code, failure, learning, and vision.”
 
 ## 🔗 Connect With Me
-- [Paiza Profile](https://paiza.jp/users/YOUR_USERNAME) 
-- [LinkedIn](#) ← *(add if you want later)*
-- Email:
+- [Paiza Profile](https://paiza.jp/works/mypage) 
+- Email:minhtutkhaung29@gmail.com
 ---
 
 ## ⚡ Fun Fact
