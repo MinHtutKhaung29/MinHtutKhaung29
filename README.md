@@ -7,7 +7,7 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 - Currently studying **software programming** and **Japanese** to enter a top university in Japan
 - Learning **Python** — my first language — step by step with real projects
 - Interested in **AI, robotics, automation, and smart tools**
-- Documenting everything I learn in my [Python Learning Journey Repo](https://github.com/your_username/python-learning-journey)
+- Documenting everything I learn in my [Python Learning Journey Repo](https://github.com/MinHtutKhaung29/python-learning-journey)
 
 ## 🛠️ Tech I’m Learning
 - Python (Core, OOP, Projects)
