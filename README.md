@@ -21,7 +21,7 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 - `paiza-stats-visualizer`: A fun app to track Paiza learning progress (idea stage)
 ### 🏅 Paiza Python Certificate  
 Completed "Python体験編1" on May 4, 2025  
-![Certificate](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/blob/main/yourimage.png?raw=true)
+![Certificate](https://github.com/MinHtutKhaung29/python-learning-journey/blob/main/%E3%82%B9%E3%82%AF%E3%83%AA%E3%83%BC%E3%83%B3%E3%82%B7%E3%83%A7%E3%83%83%E3%83%88%202025-05-05%20002007.png?raw=true)
 
 
 ## 🌱 2025 Goals
