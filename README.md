@@ -1,4 +1,4 @@
-# Hi, I’m Min Htut Khaung — Future Software Engineer & AI Builder
+# Hi, I’m Min Htut Khaung
 
 I’m a passionate programmer in Tokyo, Japan, learning Python and software development with big dreams:  
 **To build powerful tools, solve global problems, and become a world-class engineer.**
