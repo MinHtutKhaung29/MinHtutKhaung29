@@ -74,9 +74,4 @@ I’m a passionate programmer in Tokyo, Japan, learning Python and software deve
 ---
 
 ## ⚡ Fun Fact
-I don't just want to be a programmer. I want to build something that **changes the world**.) ← *(replace with your link)*
-
----
-
-## ⚡ Fun Fact
 I don't just want to be a programmer. I want to build something that **changes the world**.
